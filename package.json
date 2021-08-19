@@ -1,0 +1,23 @@
+{
+  "name": "shop-backend",
+  "version": "1.0.0",
+  "description": "A Udemy course on the MERN stack",
+  "main": "server.js",
+  "scripts": {
+    "start": "node backend/server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/savva-k/mern-ecommerce-course.git"
+  },
+  "author": "SK",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/savva-k/mern-ecommerce-course/issues"
+  },
+  "homepage": "https://github.com/savva-k/mern-ecommerce-course#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
